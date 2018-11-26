@@ -14,5 +14,5 @@
 * [Deep Q-learning実装](http://neuro-educator.com/rl2/)
 * [Q-learningとDQNの比較](https://qiita.com/ishizakiiii/items/75bc2176a1e0b65bdd16)
 * [Dueling DQN実装](https://qiita.com/sugulu/items/6c4d34446d4878cde61a)
-* [A3C実装](https://qiita.com/sugulu/items/acbc909dd9b74b043e45)☆
+* [A3C実装](https://qiita.com/sugulu/items/acbc909dd9b74b043e45)OK
 * [PPO実装](https://qiita.com/sugulu/items/8925d170f030878d6582)

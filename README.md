@@ -8,7 +8,7 @@
 * [ゼロからDeepまで学ぶ強化学習(概要)](https://qiita.com/icoxfog417/items/242439ecd1a477ece312)
 ### やっていくもの
 * [環境構築](https://qiita.com/God_KonaBanana/items/c2cee09bc35cca722f2b)OK
-* [Q学習、DQN、DDQNの簡単な実装](https://qiita.com/sugulu/items/bc7c70e6658f204f85f9)☆
+* [Q学習、DQN、DDQNの簡単な実装](https://qiita.com/sugulu/items/bc7c70e6658f204f85f9)OK
 * [Q-learning実装](http://neuro-educator.com/rl1/)
 * [SARSA、モンテカルロ法実装](https://qiita.com/sugulu/items/7a14117bbd3d926eb1f2)
 * [Deep Q-learning実装](http://neuro-educator.com/rl2/)
